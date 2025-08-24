@@ -2,12 +2,12 @@
     <h1 align="start"> 🤓 Jonathan Refatti - Full stack Developer</h1>
 </div>
 
-## About Me 👋
-Hey guys, my name is Jonathan Petry Refatti. I'm currently studying computer science at UPF - University of Passo Fundo.
+<h2> About Me 👋 </h2>
+Hey guys, my name is Jonathan Petry Refatti. I'm currently studying computer science at UPF - University of Passo Fundo (2/8).
 
 I'm passionate about soccer, studying, technology, competitive programming, and problem-solving.
 
-Welcome to my GitHub.
+Welcome to my GitHub!🫡
 
 <h2>💻 Stacks</h2>
 <div style="display: inline_block">
@@ -27,6 +27,9 @@ Welcome to my GitHub.
 <div style="display: flex; align-items: center; gap: 20px;">
     <a href="https://github.com/jorefatti">
         <img src="https://streak-stats.demolab.com?user=jorefatti&theme=blueberry&hide_border=false" />
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorefatti&layout=compact&theme=blueberry" />
+    </a>   
 </div>
+
+<h2>📖 Languages</h2>
+🇧🇷 Native Portuguese <br>
+🇺🇸 Advanced English
