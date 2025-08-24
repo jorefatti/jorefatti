@@ -19,9 +19,9 @@
 </div>
 
 <h1>📚 GitHub Stacks</h1>
-<div>
+<div style="display: flex; align-items: center; gap: 20px;">
     <a href="https://github.com/jorefatti">
-    <img height="175px" src="https://streak-stats.demolab.com?user=jorefatti&theme=blueberry&hide_border=false" />
-    <span style="margin: 0 10px;"></span> 
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorefatti&layout=compact&theme=blueberry" />
+        <img height="175px" src="https://streak-stats.demolab.com?user=jorefatti&theme=blueberry&hide_border=false" />
+    </a>
+    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorefatti&layout=compact&theme=blueberry" />
 </div>
