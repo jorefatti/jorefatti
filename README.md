@@ -2,15 +2,20 @@
     <h1 align="start"> 🤓 Jonathan Refatti - Full stack Developer</h1>
 </div>
 
+## About Me 👋
+Hey guys, my name is Jonathan Petry Refatti. I'm currently studying computer science at UPF - University of Passo Fundo.
 
+I'm passionate about soccer, studying, technology, competitive programming, and problem-solving.
 
-<h1>💻 Stacks</h1>
+Welcome to my GitHub.
+
+<h2>💻 Stacks</h2>
 <div style="display: inline_block">
     <img align="center" alt="HTML" src="https://skillicons.dev/icons?i=git,aws,cpp,css,github,html,java,js,linux,postgres,py,react,tailwind,threejs,vscode">
     <br>
 </div>
 
-<h1>🌐 Social</h1>
+<h2>🌐 Social</h2>
 <div>
     <a href = "https://www.instagram.com/jorefatti/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
     <a href = "https://www.linkedin.com/in/jonathan-refatti-b720a1344/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -18,10 +23,10 @@
     <br><br>
 </div>
 
-<h1>📚 GitHub Stacks</h1>
+<h2>📚 GitHub Stacks</h2>
 <div style="display: flex; align-items: center; gap: 20px;">
     <a href="https://github.com/jorefatti">
-        <img height="175px" src="https://streak-stats.demolab.com?user=jorefatti&theme=blueberry&hide_border=false" />
+        <img src="https://streak-stats.demolab.com?user=jorefatti&theme=blueberry&hide_border=false" />
     </a>
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorefatti&layout=compact&theme=blueberry" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorefatti&layout=compact&theme=blueberry" />
 </div>
