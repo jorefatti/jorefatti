@@ -21,7 +21,7 @@
 <h1>📚 GitHub Stacks</h1>
 <div>
     <a href="https://github.com/jorefatti">
-    <img src="https://streak-stats.demolab.com?user=jorefatti&theme=blueberry&hide_border=false" />
+    <img height="175px" src="https://streak-stats.demolab.com?user=jorefatti&theme=blueberry&hide_border=false" />
     <span style="margin: 0 10px;"></span> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorefatti&layout=compact&theme=blueberry" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorefatti&layout=compact&theme=blueberry" />
 </div>
